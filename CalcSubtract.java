@@ -1,4 +1,8 @@
-
+/**
+ * 
+ * @author kimyang
+ *Calculator Subtract method
+ */
 public class CalcSubtract 
 {
 
